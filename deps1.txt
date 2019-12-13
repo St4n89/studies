@@ -1,0 +1,8 @@
+Opel:Manta
+Volvo:V70
+Audi:A6
+Saab:9000
+Chevrolet:Chevette
+Toyota:Supra
+Oldsmobile:Cutlass
+Mazda:Xedos

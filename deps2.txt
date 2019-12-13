@@ -1,0 +1,9 @@
+Chevrolet:Impala
+Opel:Corsa
+Volvo:V70
+Mercedes-Benz:190
+Saab:9000
+Mazda:MX-5
+Nissan:Micra
+Plymouth:Fury
+Ford:Mustang

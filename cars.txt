@@ -1,0 +1,6 @@
+Volvo:V70
+Opel:Astra
+Nissan:Micra
+BMW:X3
+Volkswagen:Tiguan
+Lada:2114
